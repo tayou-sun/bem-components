@@ -1,0 +1,16 @@
+
+.informer__content_distribute_default{
+
+}
+
+.informer__content_distribute_between{
+
+}
+
+.informer__content_distribute_center{
+    text-align: center;
+    vertical-align: middle; 
+/*     width: 100px;
+    height: 100px;
+    background-color: yellow; */
+}

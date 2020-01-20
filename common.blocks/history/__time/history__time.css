@@ -1,0 +1,11 @@
+.history__time{
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.history__time>div:first-child{
+    padding-bottom: 10px;
+}

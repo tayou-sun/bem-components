@@ -1,0 +1,6 @@
+.image{
+background-image: var(--url);/* url("./images/image-placeholder-inverse.svg"); */
+background-repeat: no-repeat;
+background-position: center;
+height: 100%;
+}

@@ -1,0 +1,19 @@
+
+.card__content_space-a_m{
+    padding-left: 18px;
+    padding-right: var(--space-m);
+    padding-top: var(--space-m);
+    padding-bottom: var(--space-m);
+}
+
+.card__content_space-a_l{
+    padding: var(--space-l);
+}
+
+.card__content_space-a_xl{
+    padding: var(--space-xl);
+}
+
+.card__content_space-a_xxxl{
+    padding: var(--space-xxl);
+}

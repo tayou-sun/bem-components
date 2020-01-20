@@ -1,0 +1,15 @@
+.event{
+
+    min-height: 472px;
+   /*  display: flex;
+    min-height: 472px;
+    position: relative; */
+}
+
+/* .event::before{
+    content: '';
+    display: inline-block;
+    min-height: 472px;
+    width: 100%;
+    vertical-align: middle;
+} */

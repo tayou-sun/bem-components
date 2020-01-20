@@ -1,0 +1,5 @@
+.form__control {
+    width: 100%;
+    flex-flow: row-reverse;
+    display: flex;
+}

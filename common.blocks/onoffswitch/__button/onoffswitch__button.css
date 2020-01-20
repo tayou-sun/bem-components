@@ -1,0 +1,7 @@
+.onoffswitch__button{
+    background: var(--color-border);
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    align-items: flex-end;
+}

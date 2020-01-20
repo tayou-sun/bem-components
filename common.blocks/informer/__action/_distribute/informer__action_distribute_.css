@@ -1,0 +1,6 @@
+.informer__action_distribute_default{}
+.informer__action_distribute_between{}
+.informer__action_distribute_center{
+    display: inline-flex;
+    align-items: center;
+}

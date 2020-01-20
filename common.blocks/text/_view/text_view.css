@@ -1,0 +1,13 @@
+/* Цвет текста */
+
+.text_view_primary .text__word{
+    background: var(--text-default);
+}
+
+.text_view_ghost .text__word{
+    background: var(--text-aditional); 
+}
+
+/* .text_view_primary .text__word{
+    background: white;
+} */

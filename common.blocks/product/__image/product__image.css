@@ -1,0 +1,5 @@
+.product__image{
+    background: var(--color-default);
+    border: 3px solid;
+    height: 160px;
+}

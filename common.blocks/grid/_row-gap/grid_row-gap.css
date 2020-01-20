@@ -1,0 +1,7 @@
+.grid_row-gap_half{
+    grid-row-gap: 6px;
+}
+
+.grid_row-gap_full{
+    grid-row-gap: 72px;
+}

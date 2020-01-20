@@ -1,0 +1,4 @@
+.form_border_all {
+    border: 3px solid;
+    border-color: var(--color-border);
+}

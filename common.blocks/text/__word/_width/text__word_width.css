@@ -1,0 +1,84 @@
+/* ----------------  s ----------------------- */
+.text_size_s  .text__word_width_s{
+    height: 8px;
+    width: 20px;
+}
+
+.text_size_s .text__word_width_m{
+    height: 8px;
+    width: 48px;
+}
+
+.text_size_s  .text__word_width_l{
+    height: 8px;
+    width: 100px;
+}
+
+
+/* ----------------  m  ----------------------- */
+.text_size_m  .text__word_width_s{
+    height: 10px;
+    width: 24px;
+}
+
+.text_size_m .text__word_width_m{
+    height: 10px;
+    width: 56px;
+}
+
+.text_size_m  .text__word_width_l{
+    height: 10px;
+    width: 114px;
+}
+
+/* ----------------  l  ----------------------- */
+
+.text_size_l  .text__word_width_s{
+    height: 11px;
+    width: 28px;
+}
+
+.text_size_l .text__word_width_m{
+    height: 11px;
+    width: 68px;
+}
+
+.text_size_l  .text__word_width_l{
+    height: 11px;
+    width: 138px;
+}
+
+/* ----------------  xl ----------------------- */
+
+.text_size_xl  .text__word_width_s{
+    height: 13px;
+    width: 32px;
+}
+
+.text_size_xl .text__word_width_m{
+    height: 13px;
+    width: 74px;
+}
+
+.text_size_xl  .text__word_width_l{
+    height: 13px;
+    width: 154px;
+}
+
+/* ----------------  xxl ----------------------- */
+
+.text_size_xxl  .text__word_width_s{
+    height: 16px;
+    width: 36px;
+}
+
+.text_size_xsl .text__word_width_m{
+    height: 16px;
+    width: 88px;
+}
+
+.text_size_xxl  .text__word_width_l{
+    height: 16px;
+    width: 184px;
+}
+

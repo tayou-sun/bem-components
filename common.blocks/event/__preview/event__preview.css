@@ -1,0 +1,7 @@
+.event__preview > div:first-child{
+    margin-right: 15px;
+}
+
+.event__preview { 
+    display: inline-flex;
+}

@@ -1,0 +1,48 @@
+.theme_color_project-default {
+    --color-default: #FFFFFF;
+    --color-accecnt: #ffcc00;
+    --color-border: #000000;
+
+    --text-default: #000000;
+    --text-secondary: rgba(0, 0, 0, 0.6);
+    --text-aditional: rgba(0, 0, 0, 0.3);
+    --text-link: #0077ff;
+    
+    --url: url("./images/image-placeholder-primar.svg")
+}
+
+.theme_color_project-brand{
+    --color-default: #0077ff;
+    --color-accecnt: #FFFFFF;
+    --color-border: #FFFFFF;
+
+    --text-default: #FFFFFF;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --text-aditional: rgba(255, 255, 255, 0.3);
+    --text-link: #FFFFFF;
+    --url: url("./images/image-placeholder-inverse.svg")
+}
+
+.theme_color_project-inverse{
+    --color-default: #000000;
+    --color-accecnt: #FFFFFF;
+    --color-border: #FFFFFF;
+
+    --text-default: #FFFFFF;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --text-aditional: rgba(255, 255, 255, 0.3);
+    --text-link: #0077ff;
+    --url: url("./images/image-placeholder-inverse.svg")
+}
+
+
+.theme_color_project-warning{
+    --color-default: #ff3333;
+    --color-accecnt: #FFFFFF;
+    --color-border: #ff3333;
+
+    --text-default: #FFFFFF;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --text-aditional: rgba(255, 255, 255, 0.3);
+    --text-link: #FFF;
+}
