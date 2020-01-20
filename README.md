@@ -1,5 +1,14 @@
-npm i
+Install dependencies (of tools):
+$ npm install
 
-cd /stub
+Go to test folder stub:
+$ cd stub
 
-npm start => localhost:3000/index
+Build examples:
+$ npm run 
+
+
+Start the development server:
+$ npm start
+
+$ open http://localhost:3000/index
